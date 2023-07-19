@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDY.Learning.Polly.WebApi", "LDY.Learning.Polly.WebApi\LDY.Learning.Polly.WebApi.csproj", "{7EAD655A-76D9-4479-9AE5-8A443D1575CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LDY.Learning.Polly.WebApi", "LDY.Learning.Polly.WebApi\LDY.Learning.Polly.WebApi.csproj", "{7EAD655A-76D9-4479-9AE5-8A443D1575CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDY.Learning.Polly.Infrastructure", "LDY.Learning.Polly.Infrastructure\LDY.Learning.Polly.Infrastructure.csproj", "{2ECFCD62-1835-4C5E-9645-47D0078A410D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7EAD655A-76D9-4479-9AE5-8A443D1575CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EAD655A-76D9-4479-9AE5-8A443D1575CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EAD655A-76D9-4479-9AE5-8A443D1575CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECFCD62-1835-4C5E-9645-47D0078A410D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECFCD62-1835-4C5E-9645-47D0078A410D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECFCD62-1835-4C5E-9645-47D0078A410D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECFCD62-1835-4C5E-9645-47D0078A410D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
