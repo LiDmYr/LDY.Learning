@@ -11,4 +11,7 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LDY.Learning.Polly.Infrastructure\LDY.Learning.Polly.Infrastructure.csproj" />
+  </ItemGroup>
 </Project>
